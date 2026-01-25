@@ -1,0 +1,95 @@
+Atlanta Hawks
+    Jugadores:
+        Jacques Dominique Wilkins
+        Louis Clyde Hudson
+        Richard Vincent Guerin
+        Walter Jones Bellamy
+        Maurice Edward Cheeks
+        Sidney Alvin Moncrief
+        Dikembe Mutombo Mpolondo Mukamba
+        Tracy McGrady
+        Moses Eugene Malone
+
+Boston Celtics
+    Jugadores:
+        Paul Douglas Westphal
+        Robert Allen McAdoo Jr.
+        Bailey E. Howell
+        Carl August Braun, Jr.
+        Dino Radja
+        Charles Edward Macauley, Jr.
+        Ray Allen
+        Artis Gilmore
+        Larry Joe Bird
+
+Brooklyn Nets
+    Jugadores:
+        Michael Porter Jr.
+        Nic Claxton
+        Cam Thomas
+        Egor Demin
+        Terance Mann
+        Noah Clowney
+        Day'Ron Sharpe
+        Ziaire Williams
+        Haywood Highsmith
+
+Charlotte Hornets
+    Jugadores:
+        LaMelo Ball
+        Brandon Miller
+        Miles Bridges
+        Mark Williams
+        Josh Green
+        Tidjane Salaün
+        Tre Mann
+        Nick Richards
+        Grant Williams
+
+Chicago Bulls
+    Jugadores:
+        Zach LaVine
+        Coby White
+        Josh Giddey
+        Nikola Vucevic
+        Patrick Williams
+        Ayo Dosunmu
+        Matas Buzelis
+        Jalen Smith
+        Julian Phillips
+
+Denver Nuggets
+    Jugadores:
+        Nikola Jokič
+        Jamal Murray
+        Michael Porter Jr.
+        Mason Plumlee
+        Will Barton
+        Theo Maledon
+        Theo Pinson
+        Isaiah Stewart
+        Isaiah Thomas
+
+Los Angeles Lakers
+    Jugadores:
+        LeBron James
+        Anthony Davis
+        Kyle Kuzma
+        Kentavious Caldwell-Pope
+        Montrezl Harrell
+        Dennis Schroder
+        Brandon Ingram
+        Lonzo Ball
+        Kyle Kuzma
+
+Memphis Grizzlies
+    Jugadores:
+        Ja Morant
+        Dillon Brooks
+        Desmond Bane
+        Jalen Jackson
+        Jalen Smith
+        Jalen Johnson
+        Jalen Duren
+        Jalen Green
+        Jalen Hood

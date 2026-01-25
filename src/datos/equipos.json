@@ -1,0 +1,138 @@
+[
+    {
+        "id": "hawks",
+        "nombre": "Atlanta Hawks",
+        "logo": "Atlanta Hawks.png",
+        "color": "#E03A3E",
+        "jugadores": [
+            "Trae Young",
+            "Dejounte Murray",
+            "Clint Capela",
+            "John Collins",
+            "Bogdan Bogdanovic",
+            "De'Andre Hunter",
+            "Onyeka Okongwu",
+            "Saddiq Bey",
+            "Jalen Johnson"
+        ]
+    },
+    {
+        "id": "celtics",
+        "nombre": "Boston Celtics",
+        "logo": "Boston Celtics.png",
+        "color": "#007A33",
+        "jugadores": [
+            "Jayson Tatum",
+            "Jaylen Brown",
+            "Marcus Smart",
+            "Al Horford",
+            "Robert Williams III",
+            "Malcolm Brogdon",
+            "Derrick White",
+            "Grant Williams",
+            "Payton Pritchard"
+        ]
+    },
+    {
+        "id": "nets",
+        "nombre": "Brooklyn Nets",
+        "logo": "Brooklyn Nets.png",
+        "color": "#000000",
+        "jugadores": [
+            "Mikal Bridges",
+            "Spencer Dinwiddie",
+            "Nic Claxton",
+            "Cam Johnson",
+            "Dorian Finney-Smith",
+            "Royce O'Neale",
+            "Ben Simmons",
+            "Cam Thomas",
+            "Seth Curry"
+        ]
+    },
+    {
+        "id": "hornets",
+        "nombre": "Charlotte Hornets",
+        "logo": "Charlotte Hornets.png",
+        "color": "#00788C",
+        "jugadores": [
+            "LaMelo Ball",
+            "Terry Rozier",
+            "Gordon Hayward",
+            "P.J. Washington",
+            "Kelly Oubre Jr.",
+            "Mark Williams",
+            "Nick Richards",
+            "Dennis Smith Jr.",
+            "Cody Martin"
+        ]
+    },
+    {
+        "id": "bulls",
+        "nombre": "Chicago Bulls",
+        "logo": "Chicago Bulls.png",
+        "color": "#CE1141",
+        "jugadores": [
+            "Zach LaVine",
+            "DeMar DeRozan",
+            "Nikola Vucevic",
+            "Patrick Williams",
+            "Alex Caruso",
+            "Ayo Dosunmu",
+            "Coby White",
+            "Patrick Beverley",
+            "Andre Drummond"
+        ]
+    },
+    {
+        "id": "nuggets",
+        "nombre": "Denver Nuggets",
+        "logo": "Denver Nuggets.png",
+        "color": "#1D428A",
+        "jugadores": [
+            "Nikola Jokic",
+            "Jamal Murray",
+            "Michael Porter Jr.",
+            "Aaron Gordon",
+            "Kentavious Caldwell-Pope",
+            "Bruce Brown",
+            "Christian Braun",
+            "Jeff Green",
+            "DeAndre Jordan"
+        ]
+    },
+    {
+        "id": "lakers",
+        "nombre": "Los Angeles Lakers",
+        "logo": "Los Angeles Lakers.png",
+        "color": "#552583",
+        "jugadores": [
+            "LeBron James",
+            "Anthony Davis",
+            "D'Angelo Russell",
+            "Austin Reaves",
+            "Rui Hachimura",
+            "Jarred Vanderbilt",
+            "Dennis Schroder",
+            "Malik Beasley",
+            "Troy Brown Jr."
+        ]
+    },
+    {
+        "id": "grizzlies",
+        "nombre": "Memphis Grizzlies",
+        "logo": "Memphis Grizzlies.png",
+        "color": "#5D76A9",
+        "jugadores": [
+            "Ja Morant",
+            "Jaren Jackson Jr.",
+            "Desmond Bane",
+            "Dillon Brooks",
+            "Steven Adams",
+            "Tyus Jones",
+            "Brandon Clarke",
+            "Luke Kennard",
+            "Santi Aldama"
+        ]
+    }
+]
