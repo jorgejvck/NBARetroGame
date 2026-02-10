@@ -1,5 +1,3 @@
-// Objeto estático que asocia nombres de equipos con sus imágenes
-// React Native maneja las imágenes estáticas con `require` y necesita conocerlas en tiempo de compilación.
 const imagenes = {
     "Atlanta Hawks": require("../../assets/Atlanta Hawks.png"),
     "Boston Celtics": require("../../assets/Boston Celtics.png"),

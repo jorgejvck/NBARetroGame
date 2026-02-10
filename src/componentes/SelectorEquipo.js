@@ -3,13 +3,10 @@ import { View, Text, StyleSheet, Image, TouchableOpacity, FlatList } from 'react
 import { Ionicons } from '@expo/vector-icons';
 import imagenes from '../utilidades/mapaImagenes';
 
-// Componente funcional que recibe 'equipo' (datos), 'tipo' (Local/Visitante) y la función 'alCambiarEquipo'
 const SelectorEquipo = ({ equipo, tipo, alCambiarEquipo }) => {
-    // Determinamos si es el equipo local para usar el color azul, si no, rojo
     const esLocal = tipo === 'LOCAL';
     const colorPanel = esLocal ? '#1a2a6c' : '#b21f1f';
 
-    // Función para renderizar cada fila de jugador en la lista
     const renderizarJugador = ({ item, index }) => (
         <View style={estilos.filaJugador}>
             <Text style={estilos.numeroJugador}>{index + 1}</Text>
