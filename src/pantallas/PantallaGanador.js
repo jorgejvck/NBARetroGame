@@ -126,28 +126,27 @@ const estilos = StyleSheet.create({
     contenido: {
         flex: 1,
         alignItems: 'center',
-        // justifyContent: 'center', // Changed to allow scrolling/better layout if needed, or keeping it but ensuring space
         padding: 20,
     },
     tituloResultado: {
         color: '#fff',
         fontSize: 24,
         letterSpacing: 3,
-        marginBottom: 10, // Reduced margin
+        marginBottom: 10,
         opacity: 0.8,
         marginTop: 10,
     },
     marcadorFinal: {
         flexDirection: 'row',
         alignItems: 'center',
-        marginBottom: 20, // Reduced margin
+        marginBottom: 20,
         backgroundColor: 'rgba(255,255,255,0.1)',
         paddingHorizontal: 30,
         paddingVertical: 5,
         borderRadius: 20,
     },
     puntosFinal: {
-        fontSize: 36, // Slightly smaller
+        fontSize: 36,
         fontWeight: 'bold',
         color: '#ffd700',
     },
@@ -158,10 +157,10 @@ const estilos = StyleSheet.create({
     },
     contenedorGanador: {
         alignItems: 'center',
-        marginBottom: 20, // Reduced margin
+        marginBottom: 20,
     },
     logoGanador: {
-        width: 120, // Smaller logo
+        width: 120,
         height: 120,
         marginBottom: 10,
     },
